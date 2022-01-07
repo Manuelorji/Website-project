@@ -82,7 +82,7 @@ nav.active {
 }
 
 .hero .has_bg {
-  background: url(/images/mt.jpg);
+  background: url("./images/mt.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
